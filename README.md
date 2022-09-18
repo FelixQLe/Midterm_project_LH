@@ -8,7 +8,11 @@ In this one-week Midterm Project, we are supposed to perform a Data Science task
 
 ## Project Workflow
 
-The timeline for the project is a week. Therefore, the team decided to utilize an iterative minimal viable product (MVP) process, where we go though the entire process from data collection to model prediction deployment. We had a total of 3 iterations taking us from model 0 to model 3. Every iteration’s goal was to increase prediction power using different techniques and combining the best ones. Some of the tools used to increase predictive power were feature engineering (weather conditions, route traffic, datetime dates), dimensionality reduction using variable selection as well as changing categorical variables into dummy variables.
+The timeline for the project is a week. Therefore, the team decided to utilize an iterative minimal viable product (MVP) process, where we go though the entire process from data collection to model prediction deployment. We had a total of 3 iterations taking us from model 0 to model 3. Every iteration’s goal was to increase prediction power using different techniques and combining the best ones.
+
+Our strategy to improve predictive power is using predictable features in dataset which we was using Linear regression to predict.
+
+Some of the tools used to increase predictive power were feature engineering (weather conditions, route traffic, datetime dates), dimensionality reduction using variable selection as well as changing categorical variables into dummy variables.
 
 ## Data
 
